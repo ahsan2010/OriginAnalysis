@@ -11,5 +11,5 @@ In a nutshell, this will help to figure out the evolution of the software.
 
 I want to improve the work and try to enhance for the class lebel merging,splitting and renaming detection.
 Here, in this project, the LHDiff line tracker has been used for similarity check and candidate set creation.
-Further, body similarity, name similarity, caller/callee analysis has been performed in order to improve the 
+Further, body similarity, name similarity, caller/callee analysis have been performed in order to improve the 
 accuracy of this tool.
